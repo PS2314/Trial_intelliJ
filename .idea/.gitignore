@@ -1,3 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+#package file #
+*.jar
+*.war
+
+#log file#
+*.log
+
+#xml
+*.xml
